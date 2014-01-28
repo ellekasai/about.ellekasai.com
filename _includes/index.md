@@ -8,6 +8,15 @@
 
 88年七夕生まれ。決済系のITベンチャーで法人営業として働いていたが､この春に退職｡現在は某社のアシスタントデザイナーとして､スキルアップに邁進中。素材写真モデルとしても活動している｡学習院女子大学国際文化交流学部出身｡趣味は読書と映画鑑賞、特技は朗読やアナウンスといった放送系。
 
+## 連絡先
+
+* [elle.kasai@gmail.com](mailto:elle.kasai@gmail.com)
+* [Twitter](http://twitter.com/ellekasai)
+* [Facebook](http://facebook.com/elle.kasai)
+* [GitHub](http://github.com/ellekasai)
+* [LinkedIn](http://www.linkedin.com/in/ellekasai)
+* [Google+](https://plus.google.com/110578585985399309952?rel=author)
+
 ## リンク
 
 * **[ブログ](http://ellekasai.com/)**
@@ -40,13 +49,6 @@
 
 <iframe width="853" height="480" src="//www.youtube.com/embed/cMTDwuL1Mlk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-## 連絡先
+## 奥付
 
-* [elle.kasai@gmail.com](mailto:elle.kasai@gmail.com)
-* [Twitter](http://twitter.com/ellekasai)
-* [Facebook](http://facebook.com/elle.kasai)
-* [GitHub](http://github.com/ellekasai)
-* [LinkedIn](http://www.linkedin.com/in/ellekasai)
-* [Google+](https://plus.google.com/110578585985399309952?rel=author)
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" ><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+このページの文章のライセンスは<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" >CC BY-SA 4.0</a>です。
