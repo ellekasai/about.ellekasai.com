@@ -12,7 +12,7 @@
 
 * **[ブログ](http://ellekasai.com/)**
 
-  一番読まれた記事は[こちらです](http://ellekasai.com/posts/this-is-a-web-page/)。
+  一番読まれた記事は「[言葉からウェブデザインを始めよう(翻訳)](http://ellekasai.com/posts/this-is-a-web-page/)」です。
 
 * **[アメリカ滞在記](http://krizel.ellekasai.com/)**
 
