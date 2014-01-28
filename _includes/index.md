@@ -1,63 +1,48 @@
+都内のIT企業で勤務するデザイナーです。
 
+<a href="https://twitter.com/ellekasai" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja">@ellekasaiさんをフォロー</a>
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+![Elle Kasai 笠井枝理依](images/ellekasai.jpg)
 
-<iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+## 略歴
 
-## Solo is useful if...
+88年七夕生まれ。決済系のITベンチャーで法人営業として働いていたが､この春に退職｡現在は某社のアシスタントデザイナーとして､スキルアップに邁進中。素材写真モデルとしても活動している｡学習院女子大学国際文化交流学部出身｡趣味は読書と映画鑑賞、特技は朗読やアナウンスといった放送系。
 
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
+## リンク
 
-## Examples
+* **[ブログ](http://ellekasai.com/)**
 
-* This page itself is built with Solo. Try it out from [the github repo](https://github.com/chibicode/solo).
-* [My personal site](http://chibicode.com) is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/chibicode.com/blob/gh-pages/_includes/index.md).
-* Two of my Japanese personal sites ([#1](http://j.chibicode.com/) and [#2](http://waza.chibicode.com/)) are also built with Solo.
+  一番読まれた記事は[こちらです](http://ellekasai.com/posts/this-is-a-web-page/)。
 
-## Usage
+* **[アメリカ滞在記](http://krizel.ellekasai.com/)**
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/poole/poole). Start Jekyll and you should see this page up and running.
+  2012年10月にはじめてアメリカに行ったときの話です。
 
-**The main file you'll be editing is `_includes/index.md`**. This becomes the content for the main `index.html`.
+* **[Promo](http://promo.ellekasai.com/)**
 
-### Other Files
+  素材写真モデルとして活動していた頃の写真集です。
 
-* Edit `_config.yml` to change the site title.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
+* **[今の自分は､UIデザイナーになるためにまっしぐら｡高校時代は､自分のやりたいことがわからなかった｡](http://storys.jp/story/5047)**
 
-### Don't use `<h1>` tags
+  Storys.jpに公開した記事です。
 
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
+## 笠井枝理依のHTMLスケッチ
 
-### Supported Tags
+私がスキルアップのために行っていた､HTMLス­ケッチのやり方を紹介する動画を作成­してみました｡HTML/CSSの初心者向けです｡
 
-Solo supports lists, `<hr>`s, `<table>`s,
+「こんな風にやるといいよ!」というアドバイスや­､「こんなことが知りたい!」というご要望がございましたら､教えてくださるととても­嬉しいです!
 
-> blockquotes, and...
+<iframe width="853" height="480" src="//www.youtube.com/embed/038wQNc_j1s?rel=0" frameborder="0" allowfullscreen></iframe><br/>
 
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
+<iframe width="853" height="480" src="//www.youtube.com/embed/cMTDwuL1Mlk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-### Keep Solo up to date
+## 連絡先
 
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
+* [elle.kasai@gmail.com](mailto:elle.kasai@gmail.com)
+* [Twitter](http://twitter.com/ellekasai)
+* [Facebook](http://facebook.com/elle.kasai)
+* [GitHub](http://github.com/ellekasai)
+* [LinkedIn](http://www.linkedin.com/in/ellekasai)
+* [Google+](https://plus.google.com/110578585985399309952?rel=author)
 
-## Author
-
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
-
-![Shu Uesugi](http://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
-
-### License
-
-[MIT License](http://chibicode.mit-license.org/)
-
-<a href="https://github.com/chibicode/solo"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" ><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
