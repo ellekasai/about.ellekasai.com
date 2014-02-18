@@ -1,4 +1,4 @@
-都内のIT企業で勤務するデザイナーです。
+渋谷で働くアシスタントデザイナーです。
 
 <a href="https://twitter.com/ellekasai" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja">@ellekasaiさんをフォロー</a>
 
@@ -6,16 +6,13 @@
 
 ## 略歴
 
-88年七夕生まれ。決済系のITベンチャーで法人営業として働いていたが､この春に退職｡現在は某社のアシスタントデザイナーとして､スキルアップに邁進中。素材写真モデルとしても活動している｡学習院女子大学国際文化交流学部出身｡趣味は読書と映画鑑賞、特技は朗読やアナウンスといった放送系。
+2012年に学習院女子大学を卒業後、株式会社ネットプロテクションズで法人営業を担当。2013年にUIデザイナーを志し、シリコンバレーでデザインを学ぶ。同年10月に、管理職・グローバル人材に特化した転職サイト「ビズリーチ」を運営する株式会社ビズリーチに入社し、アシスタントデザイナーを務める。
 
-## 連絡先
+## 直近の活動
 
-* [elle.kasai@gmail.com](mailto:elle.kasai@gmail.com)
-* [Twitter](http://twitter.com/ellekasai)
-* [Facebook](http://facebook.com/elle.kasai)
-* [GitHub](http://github.com/ellekasai)
-* [LinkedIn](http://www.linkedin.com/in/ellekasai)
-* [Google+](https://plus.google.com/110578585985399309952?rel=author)
+* **[プロデザイナーが実践するHTML&CSSスキル向上トレーニング〜Wikipedia編](http://schoo.jp/teacher/336)**
+  
+  3月10日(月)21:00~22:30に初めてschooに登壇します｡まだまだ未熟者ですが､頑張って準備して臨みますので､よろしければご覧ください｡
 
 ## リンク
 
@@ -48,6 +45,19 @@
 <iframe width="853" height="480" src="//www.youtube.com/embed/038wQNc_j1s?rel=0" frameborder="0" allowfullscreen></iframe><br/>
 
 <iframe width="853" height="480" src="//www.youtube.com/embed/cMTDwuL1Mlk?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/fMiQomHNAd0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/LI6LxPrs3V8" frameborder="0" allowfullscreen></iframe>
+
+## 連絡先
+
+* [elle.kasai@gmail.com](mailto:elle.kasai@gmail.com)
+* [Twitter](http://twitter.com/ellekasai)
+* [Facebook](http://facebook.com/elle.kasai)
+* [GitHub](http://github.com/ellekasai)
+* [LinkedIn](http://www.linkedin.com/in/ellekasai)
+* [Google+](https://plus.google.com/110578585985399309952?rel=author)
 
 ## 奥付
 
