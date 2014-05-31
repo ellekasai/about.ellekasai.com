@@ -16,6 +16,10 @@
 
 ## リンク
 
+* **[Elle Kasai](http://speaker.ellekasai.com/)**
+
+  HTML/CSSスピーカーとしての英語プロフィールです。
+
 * **[ブログ](http://ellekasai.com/)**
 
   一番読まれた記事は「[言葉からウェブデザインを始めよう(翻訳)](http://ellekasai.com/posts/this-is-a-web-page/)」です。
