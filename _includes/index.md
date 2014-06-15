@@ -16,7 +16,7 @@
 
 ## リンク
 
-* **[Elle Kasai](http://speaker.ellekasai.com/)**
+* **[Elle Kasai](http://speaking.ellekasai.com/)**
 
   HTML/CSSスピーカーとしての英語プロフィールです。
 
